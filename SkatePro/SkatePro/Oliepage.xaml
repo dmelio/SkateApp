@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+    <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SkatePro.Oliepage"
+             BackgroundImageSource="whatthehex.png">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame  BackgroundColor="DeepSkyBlue">
+                <Label Text="{Binding Nombre}" TextColor="WhiteSmoke" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="30"/>
+            </Frame>
+            <ScrollView>
+                <StackLayout  Margin="30">
+                    <Label Text="Descripcion" FontSize="22" TextColor="DeepSkyBlue"></Label>
+                    <Label Text="{Binding Descripcion}" FontSize="18" TextColor="Black"></Label>
+                    <Label Text="Dificultad" FontSize="22" TextColor="DeepSkyBlue"></Label>
+                    <Label Text="{Binding Nvldificultad}" FontSize="18" TextColor="Black"></Label>
+                    <Label Text="Como hacer" FontSize="22" TextColor="DeepSkyBlue" />
+                    <Label Text="{Binding Comohacer}" FontSize="18" TextColor="black"/>
+                    <Label Text="Posicion de pies" FontSize="22" TextColor="DeepSkyBlue"/>
+                    <Image Source=""/>
+                    <Label Text="Video" FontSize="22" TextColor="DeepSkyBlue"/>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+  

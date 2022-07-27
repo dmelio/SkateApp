@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundImage="whatthehex.png"
+             x:Class="SkatePro.Gameofskate">
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="DeepSkyBlue">
+                <Label FontSize="50" Text="Game of Skate" TextColor="WhiteSmoke" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+            </Frame>
+            <StackLayout Margin="30">
+            <Label Text="Skater 1" FontSize="25" TextColor="Black" FontAttributes="Bold"/>
+            <Entry x:Name="entSkater1" Placeholder="Nombre skater" FontSize="20"/>
+            <Label Text="Skater 2" FontSize="25" TextColor="Black" FontAttributes="Bold"/>
+            <Entry x:Name="entSkater2" Placeholder="Nombre skater" FontSize="20"/>
+            <Button Text="Registrar" x:Name="btnRegSkater" Clicked="btnRegSkater_Clicked" BackgroundColor="DeepSkyBlue" TextColor="WhiteSmoke" FontSize="25"/>
+            <Button Text="Nuevo juego" x:Name="btnNuevojuego" Clicked="btnNuevojuego_Clicked" BackgroundColor="DeepSkyBlue" TextColor="WhiteSmoke" FontSize="25"/>
+            <StackLayout>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition  Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0" RowDefinitions="*,*" >
+                        <Entry x:Name="entNombre1game" FontSize="25" IsReadOnly="True" TextColor="Red"/>
+                                <Button x:Name="btnAgregarletraP1" ImageSource="agregar.png" Grid.Row="1" FontSize="30" HorizontalOptions="FillAndExpand" Clicked="btnAgregarletraP1_Clicked" BackgroundColor="DeepSkyBlue"></Button>
+                        <Grid ColumnDefinitions="*,*" Grid.Row="2">
+                                <Entry x:Name="entSp1" Grid.Column="0" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entKp1" Grid.Column="1" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entAp1" Grid.Column="2" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entTp1" Grid.Column="3" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entEp1" Grid.Column="4" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="1" RowDefinitions="*,*">
+                        <Entry x:Name="entNombre2game" FontSize="25" TextColor="Blue" IsReadOnly="True"/>
+                                <Button x:Name="btnAgregarletraP2" ImageSource="agregar.png" Grid.Row="1" FontSize="30" HorizontalOptions="FillAndExpand" Clicked="btnAgregarletraP2_Clicked" BackgroundColor="DeepSkyBlue"></Button>
+                        <Grid ColumnDefinitions="*,*" Grid.Row="2">
+                                <Entry x:Name="entSp2" Grid.Column="0" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entKp2" Grid.Column="1" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entAp2" Grid.Column="2" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entTp2" Grid.Column="3" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>
+                                <Entry x:Name="entEp2" Grid.Column="4" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>
+                        </Grid>
+                    </Grid>
+                    
+                </Grid>
+            </StackLayout>
+         </StackLayout>
+     </StackLayout>
+    </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

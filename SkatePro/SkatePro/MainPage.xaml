@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SkatePro.MainPage"
+             BackgroundImage="whatthehex.png">
+             
+    <ScrollView>
+        <StackLayout>
+            <Frame BackgroundColor="DeepSkyBlue" Padding="24" CornerRadius="0">
+                <Label Text="SkateTruco" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+            <Button x:Name="btnGOS" Text="Game of skate" HorizontalOptions="FillAndExpand" FontSize="30" Clicked="btnGOS_Clicked" BackgroundColor="DeepSkyBlue" TextColor="WhiteSmoke"/>
+            <Label Text="Lista de Trucos" FontSize="Title" Padding="30,10,30,10" FontAttributes="Bold" TextColor="Black"/>
+            <ListView x:Name="ListTruco" ItemsSource="{Binding Trucos}" HasUnevenRows="True" 
+                      ItemSelected="ListTruco_ItemSelected" 
+                      ItemTapped="ListTruco_ItemTapped" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition  Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="200"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Label Padding="20"  Text="{Binding Nombre}" FontSize="20" TextColor="Black" HorizontalOptions="Start"/>
+                                <Label FontSize="18" Grid.Column="1" Text="{Binding Nvldificultad}" TextColor="Red" VerticalOptions="Center" HorizontalOptions="Center"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ScrollView>
+    
+
+</ContentPage>

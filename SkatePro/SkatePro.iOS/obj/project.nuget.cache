@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GRywxeKM1Okd4SFB8tnoD/VtoLhoOemawAVpDNIjKzTQt0C8wUZ/7Mae8+VkjcWvzT2K2CsZbcV1xy5k4GL5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmeli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.4\\xamarin.communitytoolkit.2.0.4.nupkg.sha512",
+    "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2478\\xamarin.forms.visual.material.5.0.0.2478.nupkg.sha512",
+    "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
