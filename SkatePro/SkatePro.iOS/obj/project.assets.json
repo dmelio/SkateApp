@@ -1216,11 +1216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
       "projectName": "SkatePro.iOS",
-      "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
+      "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
       "packagesPath": "C:\\Users\\dmeli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.iOS\\obj\\",
+      "outputPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1237,8 +1237,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro\\SkatePro.csproj": {
-              "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro\\SkatePro.csproj"
+            "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro\\SkatePro.csproj": {
+              "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro\\SkatePro.csproj"
             }
           }
         }

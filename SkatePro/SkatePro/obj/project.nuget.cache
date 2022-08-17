@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wW7JaVW/9zev3bIDrthdDREG+oAFopfcumjjJ5QEkk5If1yxt2k6yoMnL2wfXvuOGDQSI44cSnLBtzeVDtCzSA==",
+  "dgSpecHash": "xRT2x2HhLxpAefJBvbO6+OE39sgu8yhkicmQou0A7pcoRrMpMQTScW1O+qNoWWOopFB74o84XOEiVcB8zw3YkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro\\SkatePro.csproj",
+  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro\\SkatePro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmeli\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\dmeli\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

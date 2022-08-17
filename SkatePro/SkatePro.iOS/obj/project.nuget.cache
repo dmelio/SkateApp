@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GRywxeKM1Okd4SFB8tnoD/VtoLhoOemawAVpDNIjKzTQt0C8wUZ/7Mae8+VkjcWvzT2K2CsZbcV1xy5k4GL5A==",
+  "dgSpecHash": "okVNtbGGVXigLW3u456yWFVfsdFvjMl5Q0AX9uQ8k5fA7GFhc3NgczpcPE6ZsfHcf35YAS5GjES8FQVypZdkpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
+  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.iOS\\SkatePro.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmeli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.4\\xamarin.communitytoolkit.2.0.4.nupkg.sha512",

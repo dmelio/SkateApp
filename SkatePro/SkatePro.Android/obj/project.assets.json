@@ -3274,11 +3274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.Android\\SkatePro.Android.csproj",
+      "projectUniqueName": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.Android\\SkatePro.Android.csproj",
       "projectName": "SkatePro.Android",
-      "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.Android\\SkatePro.Android.csproj",
+      "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.Android\\SkatePro.Android.csproj",
       "packagesPath": "C:\\Users\\dmeli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.Android\\obj\\",
+      "outputPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3295,8 +3295,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro\\SkatePro.csproj": {
-              "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro\\SkatePro.csproj"
+            "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro\\SkatePro.csproj": {
+              "projectPath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro\\SkatePro.csproj"
             }
           }
         }

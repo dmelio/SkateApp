@@ -17,7 +17,7 @@
                     <Label Text="Como hacer" FontSize="22" TextColor="DeepSkyBlue" />
                     <Label Text="{Binding Comohacer}" FontSize="18" TextColor="black"/>
                     <Label Text="Posicion de pies" FontSize="22" TextColor="DeepSkyBlue"/>
-                    <Image Source=""/>
+                    <Image Source="loapoyo.jpg"/>
                     <Label Text="Video" FontSize="22" TextColor="DeepSkyBlue"/>
                 </StackLayout>
             </ScrollView>

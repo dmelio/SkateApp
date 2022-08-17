@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KtISSwV277IZirZq+4sZBgsEw0bJeY8PHv0qlLvRdGnLI/OikZ0yJzzUbKp8QIBumSAXSTAqHhyW8+aw1LjdZQ==",
+  "dgSpecHash": "cVdQ3h0Y2LRLyVlt4m1TyYAQ1PBYgV32Lz+tUB/FuGZrtM3RReCfqkvgMkhsBLqBXGXtJJo+qT+Dj+zXT5WEdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkatePro\\SkatePro.Android\\SkatePro.Android.csproj",
+  "projectFilePath": "C:\\Users\\dmeli\\source\\repos\\SkatePro\\SkateApp\\SkatePro\\SkatePro.Android\\SkatePro.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmeli\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\dmeli\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

@@ -53,10 +53,6 @@ namespace SkatePro.Droid
 			global::Xamarin.CommunityToolkit.Resource.Animation.design_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.design_bottom_sheet_slide_out;
 			global::Xamarin.CommunityToolkit.Resource.Animation.design_snackbar_in = global::SkatePro.Droid.Resource.Animation.design_snackbar_in;
 			global::Xamarin.CommunityToolkit.Resource.Animation.design_snackbar_out = global::SkatePro.Droid.Resource.Animation.design_snackbar_out;
-			global::Xamarin.CommunityToolkit.Resource.Animation.EnterFromLeft = global::SkatePro.Droid.Resource.Animation.EnterFromLeft;
-			global::Xamarin.CommunityToolkit.Resource.Animation.EnterFromRight = global::SkatePro.Droid.Resource.Animation.EnterFromRight;
-			global::Xamarin.CommunityToolkit.Resource.Animation.ExitToLeft = global::SkatePro.Droid.Resource.Animation.ExitToLeft;
-			global::Xamarin.CommunityToolkit.Resource.Animation.ExitToRight = global::SkatePro.Droid.Resource.Animation.ExitToRight;
 			global::Xamarin.CommunityToolkit.Resource.Animation.fragment_fast_out_extra_slow_in = global::SkatePro.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
 			global::Xamarin.CommunityToolkit.Resource.Animation.mtrl_bottom_sheet_slide_in = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
 			global::Xamarin.CommunityToolkit.Resource.Animation.mtrl_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
@@ -2515,10 +2511,8 @@ namespace SkatePro.Droid
 			global::Xamarin.CommunityToolkit.Resource.Layout.abc_search_view = global::SkatePro.Droid.Resource.Layout.abc_search_view;
 			global::Xamarin.CommunityToolkit.Resource.Layout.abc_select_dialog_material = global::SkatePro.Droid.Resource.Layout.abc_select_dialog_material;
 			global::Xamarin.CommunityToolkit.Resource.Layout.abc_tooltip = global::SkatePro.Droid.Resource.Layout.abc_tooltip;
-			global::Xamarin.CommunityToolkit.Resource.Layout.BottomTabLayout = global::SkatePro.Droid.Resource.Layout.BottomTabLayout;
 			global::Xamarin.CommunityToolkit.Resource.Layout.browser_actions_context_menu_page = global::SkatePro.Droid.Resource.Layout.browser_actions_context_menu_page;
 			global::Xamarin.CommunityToolkit.Resource.Layout.browser_actions_context_menu_row = global::SkatePro.Droid.Resource.Layout.browser_actions_context_menu_row;
-			global::Xamarin.CommunityToolkit.Resource.Layout.CameraFragment = global::SkatePro.Droid.Resource.Layout.CameraFragment;
 			global::Xamarin.CommunityToolkit.Resource.Layout.custom_dialog = global::SkatePro.Droid.Resource.Layout.custom_dialog;
 			global::Xamarin.CommunityToolkit.Resource.Layout.design_bottom_navigation_item = global::SkatePro.Droid.Resource.Layout.design_bottom_navigation_item;
 			global::Xamarin.CommunityToolkit.Resource.Layout.design_bottom_sheet_dialog = global::SkatePro.Droid.Resource.Layout.design_bottom_sheet_dialog;
@@ -2536,9 +2530,6 @@ namespace SkatePro.Droid
 			global::Xamarin.CommunityToolkit.Resource.Layout.design_text_input_end_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_end_icon;
 			global::Xamarin.CommunityToolkit.Resource.Layout.design_text_input_start_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_start_icon;
 			global::Xamarin.CommunityToolkit.Resource.Layout.expand_button = global::SkatePro.Droid.Resource.Layout.expand_button;
-			global::Xamarin.CommunityToolkit.Resource.Layout.FallbackTabbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackTabbarDoNotUse;
-			global::Xamarin.CommunityToolkit.Resource.Layout.FallbackToolbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackToolbarDoNotUse;
-			global::Xamarin.CommunityToolkit.Resource.Layout.FlyoutContent = global::SkatePro.Droid.Resource.Layout.FlyoutContent;
 			global::Xamarin.CommunityToolkit.Resource.Layout.image_frame = global::SkatePro.Droid.Resource.Layout.image_frame;
 			global::Xamarin.CommunityToolkit.Resource.Layout.material_chip_input_combo = global::SkatePro.Droid.Resource.Layout.material_chip_input_combo;
 			global::Xamarin.CommunityToolkit.Resource.Layout.material_clockface_textview = global::SkatePro.Droid.Resource.Layout.material_clockface_textview;
@@ -2614,13 +2605,10 @@ namespace SkatePro.Droid
 			global::Xamarin.CommunityToolkit.Resource.Layout.preference_widget_seekbar_material = global::SkatePro.Droid.Resource.Layout.preference_widget_seekbar_material;
 			global::Xamarin.CommunityToolkit.Resource.Layout.preference_widget_switch = global::SkatePro.Droid.Resource.Layout.preference_widget_switch;
 			global::Xamarin.CommunityToolkit.Resource.Layout.preference_widget_switch_compat = global::SkatePro.Droid.Resource.Layout.preference_widget_switch_compat;
-			global::Xamarin.CommunityToolkit.Resource.Layout.RootLayout = global::SkatePro.Droid.Resource.Layout.RootLayout;
 			global::Xamarin.CommunityToolkit.Resource.Layout.select_dialog_item_material = global::SkatePro.Droid.Resource.Layout.select_dialog_item_material;
 			global::Xamarin.CommunityToolkit.Resource.Layout.select_dialog_multichoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_multichoice_material;
 			global::Xamarin.CommunityToolkit.Resource.Layout.select_dialog_singlechoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.CommunityToolkit.Resource.Layout.ShellContent = global::SkatePro.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.CommunityToolkit.Resource.Layout.support_simple_spinner_dropdown_item = global::SkatePro.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.CommunityToolkit.Resource.Layout.Tabbar = global::SkatePro.Droid.Resource.Layout.Tabbar;
 			global::Xamarin.CommunityToolkit.Resource.Layout.test_action_chip = global::SkatePro.Droid.Resource.Layout.test_action_chip;
 			global::Xamarin.CommunityToolkit.Resource.Layout.test_chip_zero_corner_radius = global::SkatePro.Droid.Resource.Layout.test_chip_zero_corner_radius;
 			global::Xamarin.CommunityToolkit.Resource.Layout.test_design_checkbox = global::SkatePro.Droid.Resource.Layout.test_design_checkbox;
@@ -2636,7 +2624,6 @@ namespace SkatePro.Droid
 			global::Xamarin.CommunityToolkit.Resource.Layout.text_view_with_line_height_from_layout = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_layout;
 			global::Xamarin.CommunityToolkit.Resource.Layout.text_view_with_line_height_from_style = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_style;
 			global::Xamarin.CommunityToolkit.Resource.Layout.text_view_with_theme_line_height = global::SkatePro.Droid.Resource.Layout.text_view_with_theme_line_height;
-			global::Xamarin.CommunityToolkit.Resource.Layout.Toolbar = global::SkatePro.Droid.Resource.Layout.Toolbar;
 			global::Xamarin.CommunityToolkit.Resource.Plurals.mtrl_badge_content_description = global::SkatePro.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::Xamarin.CommunityToolkit.Resource.String.abc_action_bar_home_description = global::SkatePro.Droid.Resource.String.abc_action_bar_home_description;
 			global::Xamarin.CommunityToolkit.Resource.String.abc_action_bar_up_description = global::SkatePro.Droid.Resource.String.abc_action_bar_up_description;
@@ -5816,10 +5803,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Animation.design_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.design_bottom_sheet_slide_out;
 			global::Xamarin.Forms.Material.Android.Resource.Animation.design_snackbar_in = global::SkatePro.Droid.Resource.Animation.design_snackbar_in;
 			global::Xamarin.Forms.Material.Android.Resource.Animation.design_snackbar_out = global::SkatePro.Droid.Resource.Animation.design_snackbar_out;
-			global::Xamarin.Forms.Material.Android.Resource.Animation.EnterFromLeft = global::SkatePro.Droid.Resource.Animation.EnterFromLeft;
-			global::Xamarin.Forms.Material.Android.Resource.Animation.EnterFromRight = global::SkatePro.Droid.Resource.Animation.EnterFromRight;
-			global::Xamarin.Forms.Material.Android.Resource.Animation.ExitToLeft = global::SkatePro.Droid.Resource.Animation.ExitToLeft;
-			global::Xamarin.Forms.Material.Android.Resource.Animation.ExitToRight = global::SkatePro.Droid.Resource.Animation.ExitToRight;
 			global::Xamarin.Forms.Material.Android.Resource.Animation.fragment_fast_out_extra_slow_in = global::SkatePro.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
 			global::Xamarin.Forms.Material.Android.Resource.Animation.mtrl_bottom_sheet_slide_in = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
 			global::Xamarin.Forms.Material.Android.Resource.Animation.mtrl_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
@@ -7614,8 +7597,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::SkatePro.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::SkatePro.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::SkatePro.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.MaterialActivityIndicatorBackground = global::SkatePro.Droid.Resource.Drawable.MaterialActivityIndicatorBackground;
-			global::Xamarin.Forms.Material.Android.Resource.Drawable.MaterialProgressBar = global::SkatePro.Droid.Resource.Drawable.MaterialProgressBar;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.material_cursor_drawable = global::SkatePro.Droid.Resource.Drawable.material_cursor_drawable;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.material_ic_calendar_black_24dp = global::SkatePro.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
 			global::Xamarin.Forms.Material.Android.Resource.Drawable.material_ic_clear_black_24dp = global::SkatePro.Droid.Resource.Drawable.material_ic_clear_black_24dp;
@@ -8205,7 +8186,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Layout.abc_search_view = global::SkatePro.Droid.Resource.Layout.abc_search_view;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.abc_select_dialog_material = global::SkatePro.Droid.Resource.Layout.abc_select_dialog_material;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.abc_tooltip = global::SkatePro.Droid.Resource.Layout.abc_tooltip;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.BottomTabLayout = global::SkatePro.Droid.Resource.Layout.BottomTabLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.custom_dialog = global::SkatePro.Droid.Resource.Layout.custom_dialog;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.design_bottom_navigation_item = global::SkatePro.Droid.Resource.Layout.design_bottom_navigation_item;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.design_bottom_sheet_dialog = global::SkatePro.Droid.Resource.Layout.design_bottom_sheet_dialog;
@@ -8222,10 +8202,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Layout.design_navigation_menu_item = global::SkatePro.Droid.Resource.Layout.design_navigation_menu_item;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.design_text_input_end_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_end_icon;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.design_text_input_start_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_start_icon;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.FallbackTabbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackTabbarDoNotUse;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.FallbackToolbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackToolbarDoNotUse;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.FlyoutContent = global::SkatePro.Droid.Resource.Layout.FlyoutContent;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.MaterialPickerTextInput = global::SkatePro.Droid.Resource.Layout.MaterialPickerTextInput;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.material_chip_input_combo = global::SkatePro.Droid.Resource.Layout.material_chip_input_combo;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.material_clockface_textview = global::SkatePro.Droid.Resource.Layout.material_clockface_textview;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.material_clockface_view = global::SkatePro.Droid.Resource.Layout.material_clockface_view;
@@ -8284,13 +8260,10 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Layout.notification_template_media_custom = global::SkatePro.Droid.Resource.Layout.notification_template_media_custom;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.notification_template_part_chronometer = global::SkatePro.Droid.Resource.Layout.notification_template_part_chronometer;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.notification_template_part_time = global::SkatePro.Droid.Resource.Layout.notification_template_part_time;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.RootLayout = global::SkatePro.Droid.Resource.Layout.RootLayout;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.select_dialog_item_material = global::SkatePro.Droid.Resource.Layout.select_dialog_item_material;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.select_dialog_multichoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_multichoice_material;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.select_dialog_singlechoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.ShellContent = global::SkatePro.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::SkatePro.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.Tabbar = global::SkatePro.Droid.Resource.Layout.Tabbar;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.test_action_chip = global::SkatePro.Droid.Resource.Layout.test_action_chip;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.test_chip_zero_corner_radius = global::SkatePro.Droid.Resource.Layout.test_chip_zero_corner_radius;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.test_design_checkbox = global::SkatePro.Droid.Resource.Layout.test_design_checkbox;
@@ -8301,13 +8274,11 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Material.Android.Resource.Layout.test_toolbar_custom_background = global::SkatePro.Droid.Resource.Layout.test_toolbar_custom_background;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.test_toolbar_elevation = global::SkatePro.Droid.Resource.Layout.test_toolbar_elevation;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.test_toolbar_surface = global::SkatePro.Droid.Resource.Layout.test_toolbar_surface;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.TextInputLayoutFilledBox = global::SkatePro.Droid.Resource.Layout.TextInputLayoutFilledBox;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.text_view_without_line_height = global::SkatePro.Droid.Resource.Layout.text_view_without_line_height;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.text_view_with_line_height_from_appearance = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.text_view_with_line_height_from_layout = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_layout;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.text_view_with_line_height_from_style = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_style;
 			global::Xamarin.Forms.Material.Android.Resource.Layout.text_view_with_theme_line_height = global::SkatePro.Droid.Resource.Layout.text_view_with_theme_line_height;
-			global::Xamarin.Forms.Material.Android.Resource.Layout.Toolbar = global::SkatePro.Droid.Resource.Layout.Toolbar;
 			global::Xamarin.Forms.Material.Android.Resource.Plurals.mtrl_badge_content_description = global::SkatePro.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_action_bar_home_description = global::SkatePro.Droid.Resource.String.abc_action_bar_home_description;
 			global::Xamarin.Forms.Material.Android.Resource.String.abc_action_bar_up_description = global::SkatePro.Droid.Resource.String.abc_action_bar_up_description;
@@ -11122,10 +11093,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.design_bottom_sheet_slide_out;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::SkatePro.Droid.Resource.Animation.design_snackbar_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::SkatePro.Droid.Resource.Animation.design_snackbar_out;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::SkatePro.Droid.Resource.Animation.EnterFromLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::SkatePro.Droid.Resource.Animation.EnterFromRight;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::SkatePro.Droid.Resource.Animation.ExitToLeft;
-			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::SkatePro.Droid.Resource.Animation.ExitToRight;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.fragment_fast_out_extra_slow_in = global::SkatePro.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.mtrl_bottom_sheet_slide_in = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
 			global::Xamarin.Forms.Platform.Android.Resource.Animation.mtrl_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
@@ -13502,7 +13469,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::SkatePro.Droid.Resource.Layout.abc_search_view;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::SkatePro.Droid.Resource.Layout.abc_select_dialog_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_tooltip = global::SkatePro.Droid.Resource.Layout.abc_tooltip;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::SkatePro.Droid.Resource.Layout.BottomTabLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.custom_dialog = global::SkatePro.Droid.Resource.Layout.custom_dialog;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::SkatePro.Droid.Resource.Layout.design_bottom_navigation_item;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::SkatePro.Droid.Resource.Layout.design_bottom_sheet_dialog;
@@ -13519,9 +13485,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::SkatePro.Droid.Resource.Layout.design_navigation_menu_item;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_end_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_end_icon;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_start_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_start_icon;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.FallbackTabbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackTabbarDoNotUse;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.FallbackToolbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackToolbarDoNotUse;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::SkatePro.Droid.Resource.Layout.FlyoutContent;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.material_chip_input_combo = global::SkatePro.Droid.Resource.Layout.material_chip_input_combo;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.material_clockface_textview = global::SkatePro.Droid.Resource.Layout.material_clockface_textview;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.material_clockface_view = global::SkatePro.Droid.Resource.Layout.material_clockface_view;
@@ -13580,13 +13543,10 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::SkatePro.Droid.Resource.Layout.notification_template_media_custom;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::SkatePro.Droid.Resource.Layout.notification_template_part_chronometer;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::SkatePro.Droid.Resource.Layout.notification_template_part_time;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::SkatePro.Droid.Resource.Layout.RootLayout;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::SkatePro.Droid.Resource.Layout.select_dialog_item_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_multichoice_material;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::SkatePro.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::SkatePro.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.Tabbar = global::SkatePro.Droid.Resource.Layout.Tabbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_action_chip = global::SkatePro.Droid.Resource.Layout.test_action_chip;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_chip_zero_corner_radius = global::SkatePro.Droid.Resource.Layout.test_chip_zero_corner_radius;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.test_design_checkbox = global::SkatePro.Droid.Resource.Layout.test_design_checkbox;
@@ -13602,7 +13562,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_line_height_from_layout = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_line_height_from_style = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_style;
 			global::Xamarin.Forms.Platform.Android.Resource.Layout.text_view_with_theme_line_height = global::SkatePro.Droid.Resource.Layout.text_view_with_theme_line_height;
-			global::Xamarin.Forms.Platform.Android.Resource.Layout.Toolbar = global::SkatePro.Droid.Resource.Layout.Toolbar;
 			global::Xamarin.Forms.Platform.Android.Resource.Plurals.mtrl_badge_content_description = global::SkatePro.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::SkatePro.Droid.Resource.String.abc_action_bar_home_description;
 			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::SkatePro.Droid.Resource.String.abc_action_bar_up_description;
@@ -16409,10 +16368,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Resource.Animation.design_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.design_bottom_sheet_slide_out;
 			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_in = global::SkatePro.Droid.Resource.Animation.design_snackbar_in;
 			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_out = global::SkatePro.Droid.Resource.Animation.design_snackbar_out;
-			global::Xamarin.Forms.Platform.Resource.Animation.EnterFromLeft = global::SkatePro.Droid.Resource.Animation.EnterFromLeft;
-			global::Xamarin.Forms.Platform.Resource.Animation.EnterFromRight = global::SkatePro.Droid.Resource.Animation.EnterFromRight;
-			global::Xamarin.Forms.Platform.Resource.Animation.ExitToLeft = global::SkatePro.Droid.Resource.Animation.ExitToLeft;
-			global::Xamarin.Forms.Platform.Resource.Animation.ExitToRight = global::SkatePro.Droid.Resource.Animation.ExitToRight;
 			global::Xamarin.Forms.Platform.Resource.Animation.fragment_fast_out_extra_slow_in = global::SkatePro.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
 			global::Xamarin.Forms.Platform.Resource.Animation.mtrl_bottom_sheet_slide_in = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
 			global::Xamarin.Forms.Platform.Resource.Animation.mtrl_bottom_sheet_slide_out = global::SkatePro.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
@@ -18789,7 +18744,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_view = global::SkatePro.Droid.Resource.Layout.abc_search_view;
 			global::Xamarin.Forms.Platform.Resource.Layout.abc_select_dialog_material = global::SkatePro.Droid.Resource.Layout.abc_select_dialog_material;
 			global::Xamarin.Forms.Platform.Resource.Layout.abc_tooltip = global::SkatePro.Droid.Resource.Layout.abc_tooltip;
-			global::Xamarin.Forms.Platform.Resource.Layout.BottomTabLayout = global::SkatePro.Droid.Resource.Layout.BottomTabLayout;
 			global::Xamarin.Forms.Platform.Resource.Layout.custom_dialog = global::SkatePro.Droid.Resource.Layout.custom_dialog;
 			global::Xamarin.Forms.Platform.Resource.Layout.design_bottom_navigation_item = global::SkatePro.Droid.Resource.Layout.design_bottom_navigation_item;
 			global::Xamarin.Forms.Platform.Resource.Layout.design_bottom_sheet_dialog = global::SkatePro.Droid.Resource.Layout.design_bottom_sheet_dialog;
@@ -18806,9 +18760,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_menu_item = global::SkatePro.Droid.Resource.Layout.design_navigation_menu_item;
 			global::Xamarin.Forms.Platform.Resource.Layout.design_text_input_end_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_end_icon;
 			global::Xamarin.Forms.Platform.Resource.Layout.design_text_input_start_icon = global::SkatePro.Droid.Resource.Layout.design_text_input_start_icon;
-			global::Xamarin.Forms.Platform.Resource.Layout.FallbackTabbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackTabbarDoNotUse;
-			global::Xamarin.Forms.Platform.Resource.Layout.FallbackToolbarDoNotUse = global::SkatePro.Droid.Resource.Layout.FallbackToolbarDoNotUse;
-			global::Xamarin.Forms.Platform.Resource.Layout.FlyoutContent = global::SkatePro.Droid.Resource.Layout.FlyoutContent;
 			global::Xamarin.Forms.Platform.Resource.Layout.material_chip_input_combo = global::SkatePro.Droid.Resource.Layout.material_chip_input_combo;
 			global::Xamarin.Forms.Platform.Resource.Layout.material_clockface_textview = global::SkatePro.Droid.Resource.Layout.material_clockface_textview;
 			global::Xamarin.Forms.Platform.Resource.Layout.material_clockface_view = global::SkatePro.Droid.Resource.Layout.material_clockface_view;
@@ -18867,13 +18818,10 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_media_custom = global::SkatePro.Droid.Resource.Layout.notification_template_media_custom;
 			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_chronometer = global::SkatePro.Droid.Resource.Layout.notification_template_part_chronometer;
 			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_time = global::SkatePro.Droid.Resource.Layout.notification_template_part_time;
-			global::Xamarin.Forms.Platform.Resource.Layout.RootLayout = global::SkatePro.Droid.Resource.Layout.RootLayout;
 			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_item_material = global::SkatePro.Droid.Resource.Layout.select_dialog_item_material;
 			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_multichoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_multichoice_material;
 			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_singlechoice_material = global::SkatePro.Droid.Resource.Layout.select_dialog_singlechoice_material;
-			global::Xamarin.Forms.Platform.Resource.Layout.ShellContent = global::SkatePro.Droid.Resource.Layout.ShellContent;
 			global::Xamarin.Forms.Platform.Resource.Layout.support_simple_spinner_dropdown_item = global::SkatePro.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
-			global::Xamarin.Forms.Platform.Resource.Layout.Tabbar = global::SkatePro.Droid.Resource.Layout.Tabbar;
 			global::Xamarin.Forms.Platform.Resource.Layout.test_action_chip = global::SkatePro.Droid.Resource.Layout.test_action_chip;
 			global::Xamarin.Forms.Platform.Resource.Layout.test_chip_zero_corner_radius = global::SkatePro.Droid.Resource.Layout.test_chip_zero_corner_radius;
 			global::Xamarin.Forms.Platform.Resource.Layout.test_design_checkbox = global::SkatePro.Droid.Resource.Layout.test_design_checkbox;
@@ -18889,7 +18837,6 @@ namespace SkatePro.Droid
 			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_line_height_from_layout = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_layout;
 			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_line_height_from_style = global::SkatePro.Droid.Resource.Layout.text_view_with_line_height_from_style;
 			global::Xamarin.Forms.Platform.Resource.Layout.text_view_with_theme_line_height = global::SkatePro.Droid.Resource.Layout.text_view_with_theme_line_height;
-			global::Xamarin.Forms.Platform.Resource.Layout.Toolbar = global::SkatePro.Droid.Resource.Layout.Toolbar;
 			global::Xamarin.Forms.Platform.Resource.Plurals.mtrl_badge_content_description = global::SkatePro.Droid.Resource.Plurals.mtrl_badge_content_description;
 			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_description = global::SkatePro.Droid.Resource.String.abc_action_bar_home_description;
 			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_up_description = global::SkatePro.Droid.Resource.String.abc_action_bar_up_description;
@@ -21758,16 +21705,16 @@ namespace SkatePro.Droid
 			public const int design_snackbar_out = 2130771995;
 			
 			// aapt resource value: 0x7F01001C
-			public const int EnterFromLeft = 2130771996;
+			public const int enterfromleft = 2130771996;
 			
 			// aapt resource value: 0x7F01001D
-			public const int EnterFromRight = 2130771997;
+			public const int enterfromright = 2130771997;
 			
 			// aapt resource value: 0x7F01001E
-			public const int ExitToLeft = 2130771998;
+			public const int exittoleft = 2130771998;
 			
 			// aapt resource value: 0x7F01001F
-			public const int ExitToRight = 2130771999;
+			public const int exittoright = 2130771999;
 			
 			// aapt resource value: 0x7F010020
 			public const int fragment_fast_out_extra_slow_in = 2130772000;
@@ -27455,10 +27402,10 @@ namespace SkatePro.Droid
 			public const int loapoyo = 2131165292;
 			
 			// aapt resource value: 0x7F070077
-			public const int MaterialActivityIndicatorBackground = 2131165303;
+			public const int materialactivityindicatorbackground = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int MaterialProgressBar = 2131165304;
+			public const int materialprogressbar = 2131165304;
 			
 			// aapt resource value: 0x7F07006D
 			public const int material_cursor_drawable = 2131165293;
@@ -29325,7 +29272,7 @@ namespace SkatePro.Droid
 			public const int abc_tooltip = 2131427355;
 			
 			// aapt resource value: 0x7F0B001C
-			public const int BottomTabLayout = 2131427356;
+			public const int bottomtablayout = 2131427356;
 			
 			// aapt resource value: 0x7F0B001D
 			public const int browser_actions_context_menu_page = 2131427357;
@@ -29334,7 +29281,7 @@ namespace SkatePro.Droid
 			public const int browser_actions_context_menu_row = 2131427358;
 			
 			// aapt resource value: 0x7F0B001F
-			public const int CameraFragment = 2131427359;
+			public const int camerafragment = 2131427359;
 			
 			// aapt resource value: 0x7F0B0020
 			public const int custom_dialog = 2131427360;
@@ -29388,19 +29335,19 @@ namespace SkatePro.Droid
 			public const int expand_button = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int FallbackTabbarDoNotUse = 2131427377;
+			public const int fallbacktabbardonotuse = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int FallbackToolbarDoNotUse = 2131427378;
+			public const int fallbacktoolbardonotuse = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int FlyoutContent = 2131427379;
+			public const int flyoutcontent = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
 			public const int image_frame = 2131427380;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int MaterialPickerTextInput = 2131427395;
+			public const int materialpickertextinput = 2131427395;
 			
 			// aapt resource value: 0x7F0B0035
 			public const int material_chip_input_combo = 2131427381;
@@ -29625,7 +29572,7 @@ namespace SkatePro.Droid
 			public const int preference_widget_switch_compat = 2131427455;
 			
 			// aapt resource value: 0x7F0B0080
-			public const int RootLayout = 2131427456;
+			public const int rootlayout = 2131427456;
 			
 			// aapt resource value: 0x7F0B0081
 			public const int select_dialog_item_material = 2131427457;
@@ -29637,13 +29584,13 @@ namespace SkatePro.Droid
 			public const int select_dialog_singlechoice_material = 2131427459;
 			
 			// aapt resource value: 0x7F0B0084
-			public const int ShellContent = 2131427460;
+			public const int shellcontent = 2131427460;
 			
 			// aapt resource value: 0x7F0B0085
 			public const int support_simple_spinner_dropdown_item = 2131427461;
 			
 			// aapt resource value: 0x7F0B0086
-			public const int Tabbar = 2131427462;
+			public const int tabbar = 2131427462;
 			
 			// aapt resource value: 0x7F0B0087
 			public const int test_action_chip = 2131427463;
@@ -29676,7 +29623,7 @@ namespace SkatePro.Droid
 			public const int test_toolbar_surface = 2131427472;
 			
 			// aapt resource value: 0x7F0B0096
-			public const int TextInputLayoutFilledBox = 2131427478;
+			public const int textinputlayoutfilledbox = 2131427478;
 			
 			// aapt resource value: 0x7F0B0095
 			public const int text_view_without_line_height = 2131427477;
@@ -29694,7 +29641,7 @@ namespace SkatePro.Droid
 			public const int text_view_with_theme_line_height = 2131427476;
 			
 			// aapt resource value: 0x7F0B0097
-			public const int Toolbar = 2131427479;
+			public const int toolbar = 2131427479;
 			
 			static Layout()
 			{
