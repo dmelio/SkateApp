@@ -57,48 +57,48 @@ map_aname.10:
 
 	.type	map_aname.11, %object
 map_aname.11:
-	.asciz	"SkatePro.Android"
-	.size	map_aname.11, 17
+	.asciz	"Xamarin.AndroidX.AppCompat.AppCompatResources"
+	.size	map_aname.11, 46
 
 	.type	map_aname.12, %object
 map_aname.12:
-	.asciz	"Xamarin.AndroidX.AppCompat.AppCompatResources"
-	.size	map_aname.12, 46
+	.asciz	"Xamarin.Google.Android.Material"
+	.size	map_aname.12, 32
 
 	.type	map_aname.13, %object
 map_aname.13:
-	.asciz	"Xamarin.Google.Android.Material"
-	.size	map_aname.13, 32
+	.asciz	"Xamarin.AndroidX.Core"
+	.size	map_aname.13, 22
 
 	.type	map_aname.14, %object
 map_aname.14:
-	.asciz	"Xamarin.AndroidX.Core"
-	.size	map_aname.14, 22
+	.asciz	"Xamarin.AndroidX.Lifecycle.LiveData.Core"
+	.size	map_aname.14, 41
 
 	.type	map_aname.15, %object
 map_aname.15:
-	.asciz	"Xamarin.AndroidX.Lifecycle.LiveData.Core"
-	.size	map_aname.15, 41
+	.asciz	"Xamarin.AndroidX.Legacy.Support.Core.UI"
+	.size	map_aname.15, 40
 
 	.type	map_aname.16, %object
 map_aname.16:
-	.asciz	"Xamarin.AndroidX.Legacy.Support.Core.UI"
-	.size	map_aname.16, 40
+	.asciz	"Xamarin.AndroidX.SavedState"
+	.size	map_aname.16, 28
 
 	.type	map_aname.17, %object
 map_aname.17:
-	.asciz	"Xamarin.AndroidX.SavedState"
-	.size	map_aname.17, 28
+	.asciz	"Xamarin.AndroidX.DrawerLayout"
+	.size	map_aname.17, 30
 
 	.type	map_aname.18, %object
 map_aname.18:
-	.asciz	"Xamarin.AndroidX.DrawerLayout"
+	.asciz	"Xamarin.AndroidX.RecyclerView"
 	.size	map_aname.18, 30
 
 	.type	map_aname.19, %object
 map_aname.19:
-	.asciz	"Xamarin.AndroidX.RecyclerView"
-	.size	map_aname.19, 30
+	.asciz	"SkatePro.Android"
+	.size	map_aname.19, 17
 
 	.type	map_aname.20, %object
 map_aname.20:

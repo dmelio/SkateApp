@@ -2,15 +2,15 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SkatePro.MainPage"
-             BackgroundImage="whatthehex.png">
+             BackgroundImageSource="skate2.jpg">
              
     <ScrollView>
         <StackLayout>
-            <Frame BackgroundColor="DeepSkyBlue" Padding="24" CornerRadius="0">
+            <Frame x:Name="frame1" BackgroundColor="#191816" Padding="24" CornerRadius="0">
                 <Label Text="SkateTruco" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
             </Frame>
-            <Button x:Name="btnGOS" Text="Game of skate" HorizontalOptions="FillAndExpand" FontSize="30" Clicked="btnGOS_Clicked" BackgroundColor="DeepSkyBlue" TextColor="WhiteSmoke"/>
-            <Label Text="Lista de Trucos" FontSize="Title" Padding="30,10,30,10" FontAttributes="Bold" TextColor="Black"/>
+            <Button x:Name="btnGOS" Text="Game of skate" HorizontalOptions="FillAndExpand" FontSize="30" Clicked="btnGOS_Clicked" BackgroundColor="#191816" TextColor="WhiteSmoke"/>
+            <Label Text="Lista de Trucos" FontSize="Title" Padding="30,10,30,10" FontAttributes="Bold" TextDecorations="Underline" TextColor="#191816"/>
             <ListView x:Name="ListTruco" ItemsSource="{Binding Trucos}" HasUnevenRows="True" 
                       ItemSelected="ListTruco_ItemSelected" 
                       ItemTapped="ListTruco_ItemTapped" >
@@ -26,7 +26,7 @@
                                     <ColumnDefinition Width="200"/>
                                     <ColumnDefinition Width="*"/>
                                 </Grid.ColumnDefinitions>
-                                <Label Padding="20"  Text="{Binding Nombre}" FontSize="20" TextColor="Black" HorizontalOptions="Start"/>
+                                <Label Padding="20"  Text="{Binding Nombre}" FontSize="20" TextColor="#191816" HorizontalOptions="Start"/>
                                 <Label FontSize="18" Grid.Column="1" Text="{Binding Nvldificultad}" TextColor="Red" VerticalOptions="Center" HorizontalOptions="Center"/>
                             </Grid>
                         </ViewCell>

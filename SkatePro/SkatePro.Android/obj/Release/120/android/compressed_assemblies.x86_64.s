@@ -8,7 +8,7 @@
 	.section	.data, "aw", @progbits
 	.p2align	3
 .L.compressed_assembly_descriptors.0:
-	.long	0x3e00	# uncompressed_file_size
+	.long	0x4000	# uncompressed_file_size
 	.byte	0x0	# loaded
 	.zero	3
 	.quad	.L.compressed_assembly_data.0	# data
@@ -33,7 +33,7 @@
 	.zero	3
 	.quad	.L.compressed_assembly_data.4	# data
 
-	.long	0x8e00	# uncompressed_file_size
+	.long	0x9400	# uncompressed_file_size
 	.byte	0x0	# loaded
 	.zero	3
 	.quad	.L.compressed_assembly_data.5	# data

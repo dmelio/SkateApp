@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundImage="whatthehex.png"
+             BackgroundImage="skate.jpg"
              x:Class="SkatePro.Gameofskate">
     <ContentPage.Content>
         <ScrollView>
         <StackLayout>
-            <Frame BackgroundColor="DeepSkyBlue">
-                <Label FontSize="50" Text="Game of Skate" TextColor="WhiteSmoke" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+            <Frame BackgroundColor="#191816">
+                <Label FontSize="50" Text="Game of Skate" TextColor="#fff" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
             </Frame>
             <StackLayout Margin="30">
-            <Label Text="Skater 1" FontSize="25" TextColor="Black" FontAttributes="Bold"/>
+                    <Label Text="Skater 1" FontSize="25" TextColor="#191816" FontAttributes="Bold"/>
             <Entry x:Name="entSkater1" Placeholder="Nombre skater" FontSize="20"/>
-            <Label Text="Skater 2" FontSize="25" TextColor="Black" FontAttributes="Bold"/>
+                    <Label Text="Skater 2" FontSize="25" TextColor="#191816" FontAttributes="Bold"/>
             <Entry x:Name="entSkater2" Placeholder="Nombre skater" FontSize="20"/>
-            <Button Text="Registrar" x:Name="btnRegSkater" Clicked="btnRegSkater_Clicked" BackgroundColor="DeepSkyBlue" TextColor="WhiteSmoke" FontSize="25"/>
-            <Button Text="Nuevo juego" x:Name="btnNuevojuego" Clicked="btnNuevojuego_Clicked" BackgroundColor="DeepSkyBlue" TextColor="WhiteSmoke" FontSize="25"/>
+            <Button Text="Registrar" x:Name="btnRegSkater" Clicked="btnRegSkater_Clicked" BackgroundColor="#191816" TextColor="#fff" FontSize="25"/>
+            <Button Text="Nuevo juego" x:Name="btnNuevojuego" Clicked="btnNuevojuego_Clicked" BackgroundColor="#191816" TextColor="#fff" FontSize="25"/>
             <StackLayout>
                 <Grid>
                     <Grid.RowDefinitions>
@@ -24,7 +24,7 @@
                     </Grid.RowDefinitions>
                     <Grid Grid.Row="0" RowDefinitions="*,*" >
                         <Entry x:Name="entNombre1game" FontSize="25" IsReadOnly="True" TextColor="Red"/>
-                                <Button x:Name="btnAgregarletraP1" ImageSource="agregar.png" Grid.Row="1" FontSize="30" HorizontalOptions="FillAndExpand" Clicked="btnAgregarletraP1_Clicked" BackgroundColor="DeepSkyBlue"></Button>
+                                <Button x:Name="btnAgregarletraP1" ImageSource="agregar.png" Grid.Row="1" FontSize="30" HorizontalOptions="FillAndExpand" Clicked="btnAgregarletraP1_Clicked" BackgroundColor="#191816"></Button>
                         <Grid ColumnDefinitions="*,*" Grid.Row="2">
                                 <Entry x:Name="entSp1" Grid.Column="0" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
                                 <Entry x:Name="entKp1" Grid.Column="1" IsReadOnly="True" FontSize="30" TextColor="Red" FontAttributes="Bold"></Entry>
@@ -35,7 +35,7 @@
                     </Grid>
                     <Grid Grid.Row="1" RowDefinitions="*,*">
                         <Entry x:Name="entNombre2game" FontSize="25" TextColor="Blue" IsReadOnly="True"/>
-                                <Button x:Name="btnAgregarletraP2" ImageSource="agregar.png" Grid.Row="1" FontSize="30" HorizontalOptions="FillAndExpand" Clicked="btnAgregarletraP2_Clicked" BackgroundColor="DeepSkyBlue"></Button>
+                                <Button x:Name="btnAgregarletraP2" ImageSource="agregar.png" Grid.Row="1" FontSize="30" HorizontalOptions="FillAndExpand" Clicked="btnAgregarletraP2_Clicked" BackgroundColor="#191816"></Button>
                         <Grid ColumnDefinitions="*,*" Grid.Row="2">
                                 <Entry x:Name="entSp2" Grid.Column="0" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>
                                 <Entry x:Name="entKp2" Grid.Column="1" IsReadOnly="True" FontSize="30" TextColor="Blue" FontAttributes="Bold"></Entry>

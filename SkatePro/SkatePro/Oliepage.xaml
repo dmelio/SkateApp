@@ -2,23 +2,23 @@
     <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SkatePro.Oliepage"
-             BackgroundImageSource="whatthehex.png">
+             BackgroundImageSource="skate.jpg">
     <ContentPage.Content>
         <StackLayout>
-            <Frame  BackgroundColor="DeepSkyBlue">
-                <Label Text="{Binding Nombre}" TextColor="WhiteSmoke" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="30"/>
+            <Frame  BackgroundColor="#191816">
+                <Label Text="{Binding Nombre}" TextColor="#fff" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="30"/>
             </Frame>
             <ScrollView>
                 <StackLayout  Margin="30">
-                    <Label Text="Descripcion" FontSize="22" TextColor="DeepSkyBlue"></Label>
-                    <Label Text="{Binding Descripcion}" FontSize="18" TextColor="Black"></Label>
-                    <Label Text="Dificultad" FontSize="22" TextColor="DeepSkyBlue"></Label>
-                    <Label Text="{Binding Nvldificultad}" FontSize="18" TextColor="Black"></Label>
-                    <Label Text="Como hacer" FontSize="22" TextColor="DeepSkyBlue" />
-                    <Label Text="{Binding Comohacer}" FontSize="18" TextColor="black"/>
-                    <Label Text="Posicion de pies" FontSize="22" TextColor="DeepSkyBlue"/>
+                    <Label Text="Descripcion" FontSize="22" TextColor="#191816" FontAttributes="Bold" TextDecorations="Underline"></Label>
+                    <Label Text="{Binding Descripcion}" FontSize="18" TextColor="#191816"></Label>
+                    <Label Text="Dificultad" FontSize="22" TextColor="#191816" FontAttributes="Bold" TextDecorations="Underline"></Label>
+                    <Label Text="{Binding Nvldificultad}" FontSize="18" TextColor="#191816"></Label>
+                    <Label Text="Como hacer" FontSize="22" TextColor="#191816" FontAttributes="Bold" TextDecorations="Underline" />
+                    <Label Text="{Binding Comohacer}" FontSize="18" TextColor="#191816"/>
+                    <Label Text="Posicion de pies" FontSize="22" TextColor="#191816" FontAttributes="Bold" TextDecorations="Underline"/>
                     <Image Source="loapoyo.jpg"/>
-                    <Label Text="Video" FontSize="22" TextColor="DeepSkyBlue"/>
+                    <Label Text="Video" FontSize="22" TextColor="#191816" FontAttributes="Bold" TextDecorations="Underline"/>
                 </StackLayout>
             </ScrollView>
         </StackLayout>
